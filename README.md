@@ -12,4 +12,5 @@ All in one guide for all the basic functions implemented using binary tree.
 (iv)->Calculating height of the tree.
 (v)->Searching for a particular key.
 (vi)->Check if the tree is balanced or not.
-(vii)->Minimum and Maximum value
+(vii)->Minimum and Maximum value.
+(viii)->Mirror of the tree.
